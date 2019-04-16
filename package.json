@@ -30,7 +30,7 @@
   "license": "Apache-2.0",
   "dependencies": {},
   "devDependencies": {
-    "@bazel/karma": "0.21.0",
+    "@bazel/karma": "^0.27.12",
     "@bazel/typescript": "0.21.0",
     "@improbable-eng/grpc-web": "^0.8.0",
     "@types/chai": "^3.5.2",
@@ -43,7 +43,7 @@
     "browser-headers": "^0.4.1",
     "chai": "^3.5.0",
     "google-protobuf": "^3.6.1",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.11",
     "lodash.isequal": "^4.5.0",
     "mocha": "^5.2.0",
     "mocha-spec-json-output-reporter": "^1.1.6",
